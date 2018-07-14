@@ -17,12 +17,12 @@ This **BOLD** Text  _it_
     * Hello
         * Hello
                 
-1.Hello
-1.Hello
-1.Hello
-  1.Hello
-  1.Hello
-    1.Hello
+1. Hello
+1. Hello
+1. Hello
+   1. Hello
+   1. Hello
+      1. Hello
         
 > 힘들때 웃는 자가 일류다
 
